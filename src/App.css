@@ -1,0 +1,81 @@
+/* styling the app
+*{
+   margin:0px;
+   padding:0px;
+   box-sizing: border-box;
+
+}
+.App{
+   background-image: linear-gradient( to right, yellow, green, blue);
+   height: 100vh;
+   justify-content: center;
+}
+/* styling home page */
+/* .header{
+   background: whitesmoke;
+   width: cover;
+}
+.navbar{
+   background: darkslategray;
+   height: 10vh;
+   padding-top: 2rem; 
+}
+.navmenu{
+   list-style-type: none;
+   display: flex;
+   justify-content: center;
+   justify-content: space-around;
+}
+.nav-item{
+   color: white;
+   justify-content: space-around;
+   text-decoration: none;
+   font-size: 20px; 
+}
+.nav-item:active{
+   background: white;
+   width: 100px;
+   height: 40px;
+   color: black
+
+}
+.logo{
+   color: gold;
+} */ 
+/* styling football page */
+/* html,body{margin:0;padding:0}
+body{font: 76% arial,sans-serif;text-align:center}
+p{margin:0 10px 10px}
+a{padding:5px; text-decoration:none; color:#000000;}
+div#header{background-color:#F3F2ED;}
+div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;}
+div#container{text-align:left}
+div#content p{line-height:1.4}
+div#navigation{background:#F6F0E0;}
+div#navigation ul{margin:15px 0; padding:0; list-style-type:none;}
+div#navigation li{margin-bottom:5px;}
+div#extra{background:#CCC8B3;}
+div#footer{background:#BFBD93;}
+div#footer p{margin:0;padding:5px 10px}
+div#container{width:700px;margin:0 auto}
+div#wrapper{float:left;width:100%}
+div#content{margin-left: 300px}
+div#navigation{float:left;width:150px;margin-left:-550px}
+div#extra{float:left;width:150px;margin-left:-700px}
+div#footer{clear:left;width:100%}
+/* styling header.js */
+/* .navitem{
+   padding: 20px;
+   color: white;
+   font-family: sans-serif;
+   font-size: 15px;
+
+}
+.navmenu-header{
+   list-style: none;
+   float: right;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background: rgb(37, 70, 45);
+} */ 
