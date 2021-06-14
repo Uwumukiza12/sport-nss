@@ -1,0 +1,33 @@
+.sport-menu{
+   background: linear-gradient(90deg, rgb(4, 118, 194) 0%, rgb(2, 4, 133) 100%);
+   padding-top:0px;
+   justify-content: center;
+   align-items: center;
+   min-height: 10vh 
+}
+.sport-menu-bar{
+   display: flex;
+   grid-template-columns: repeat(4,auto);
+   grid-gap: 10px;
+   list-style: none;
+   text-align: center;
+   justify-content: center;
+}
+.sports-item{
+   height:30px;
+   justify-content: space-around;
+   padding: 20px
+}
+.sports-item-link{
+   text-decoration: none;
+   color: #fff;
+   font-size: 23px;
+   transition: all 0.3s ease-out 0.4s;
+   /* padding: 20px */
+}
+.sports-item-link:hover{
+   border-bottom: 3px solid rgb(153, 158, 153);
+   height: fit-content;
+   transition: 250ms;
+
+}

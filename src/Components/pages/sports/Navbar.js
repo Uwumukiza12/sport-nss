@@ -34,13 +34,10 @@ function Navbar() {
                            <Link to='/' className="nav-link" onClick={closeMobileMenu}>Home</Link>
                         </li>
                         <li className="nav-item">
-                           <Link to='/Services' className="nav-link" onClick={closeMobileMenu}>Services</Link>
+                           <Link to='/CenterstOfTeams' className="nav-link" onClick={closeMobileMenu}>Centers</Link>
                         </li>
                         <li className="nav-item">
                            <Link to='/Chat' className="nav-link" onClick={closeMobileMenu}>Chat with us</Link>
-                        </li>
-                        <li className="nav-item">
-                           <Link to='/SignIn' className="nav-link" onClick={closeMobileMenu}>Sign In</Link>
                         </li>
                      </ul>
                   {button && <Button buttonStyle='btn--outline'>SIGN IN</Button>}

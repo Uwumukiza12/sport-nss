@@ -18,7 +18,7 @@
    color: #ffff;
    padding: 8px 20px;
    border: 1px solid var(--primary);
-   transition: all 0.3s ease-out;
+   transition: all 2s ease-out;
 }
 .btn--medium{
    padding: 8px 20px;

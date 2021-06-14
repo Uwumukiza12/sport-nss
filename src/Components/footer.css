@@ -1,0 +1,17 @@
+.foote-container{
+   min-height: 20vh;
+   display: flex;
+   background: #2424;
+   justify-content: space-around;
+   color: #fff;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: 20px;
+   
+}
+.contacts{
+   list-style: none;
+}
+.foot-item{
+   text-decoration: none;
+}

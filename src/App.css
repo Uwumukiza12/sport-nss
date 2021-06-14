@@ -1,10 +1,11 @@
-/* styling the app
-*{
+/* styling the app */
+/* *{
    margin:0px;
    padding:0px;
    box-sizing: border-box;
 
-}
+} */
+/*
 .App{
    background-image: linear-gradient( to right, yellow, green, blue);
    height: 100vh;
@@ -79,3 +80,7 @@ div#footer{clear:left;width:100%}
    align-items: center;
    background: rgb(37, 70, 45);
 } */ 
+
+.App{
+   background: linear-gradient(90deg, rgb(28,27,27) 0%, rgb(0,58,23) 100%)
+}
